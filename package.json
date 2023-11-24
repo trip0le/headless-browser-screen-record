@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "puppeteer": "^21.5.2",
+    "puppeteer-recorder": "^1.0.7",
+    "puppeteer-screen-recorder": "^2.1.2",
+    "puppeteer-video": "^1.0.0"
+  }
+}
